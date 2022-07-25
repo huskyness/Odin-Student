@@ -1,0 +1,26 @@
+th, td {
+    padding: 15px;
+  }
+
+td{
+  justify-content: flex-start;
+  text-align: start;
+  vertical-align: top;
+}
+
+.title{
+    text-align: center;
+}
+
+/* * {
+    border: 2px solid red;
+  } */
+
+li {
+    font-weight: bold;
+}
+
+hr {
+  border: 0;
+  border-top: 2px solid brown;
+}
